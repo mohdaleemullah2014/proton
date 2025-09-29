@@ -1,0 +1,98 @@
+        cd /f/Bash_Scripts/
+     ls
+     vim remotexecmulti.sh
+     vim remotexecmulti.sh
+     vim MultiComRemExec.sh
+     clear
+     ls
+     cp remotexecmulti.sh remotexecmulti.sh_13123030_1040.bakup
+     ls
+     vim remotexecmulti.sh
+    cp remotexecmulti.sh_13123030_1040.bakup remotexecmulti.sh
+    vim remotexecmulti.sh
+    clear
+    ls
+    cp remotexecmulti.sh_14123030_1040.bakup remotexecmulti.sh
+    cp remotexecmulti.sh remotexecmulti.sh_14123030_1040.bakup
+    cp remotexecmulti.sh remotexecmulti.sh_12113030_1040.bakup
+    cp remotexecmulti.sh remotexecmulti.sh_12103030_1150.bakup
+    cp remotexecmulti.sh remotexecmulti.sh_05103030_1150.bakup
+    ls
+    tar
+    tar czvf remotexecmulti.Bakup *.bakup
+    ls
+    rm -rf *.bakup
+    ls
+    cd /f/gitrepos/titanwork/
+    rm -rf debug.log
+    rm -rf debug.log
+    git status
+    git merge sprint1
+    ls
+    git switch sprint1
+    ls
+    cd ..
+    ls
+    cd titanwork/
+    clear
+    git push --all origin
+    cd ..
+    rm -rf titanwork
+    clear
+    ls
+    git clone https://github.com/imranvisualpath/titanwork.git
+    ls
+    cd titanwork/
+    ls
+    ls
+    clear
+    ls
+    vim jupiter1.rb
+    cat jupiter1.rb
+    git checkout jupiter1.rb
+    cat jupiter1.rb
+    clear
+    vim jupiter1.rb
+    git status
+    git diff
+    git rm debug.log
+    clear
+    git diff
+    git status
+    git diff
+    git add.
+    git add .
+    git status
+    git diff
+    git diff --cached
+    git restore --staged jupiter1.rb
+    git status
+    git diff
+    git add .
+    git commit -m "playbook"
+    clear
+    git status
+    git diff
+    git diff --cached
+    git log --oneline
+    git diff 358d7f8..a886cb6
+    git revert HEAD
+    cat jupiter1.rb
+    git log --oneline
+    clear
+    git log --oneline
+    git reset --hard 358d7f8
+    git log --oneline
+    history
+    clear
+    cat .git/config
+    cd
+    rm -rf .ssh/*
+    ssh-keygen.exe
+    ls .ssh
+    ls .ssh/
+    cat .ssh/id_rsa.pub
+    cd /f/gitrepos/
+    git clone git@github.com:imranvisualpath/titanwork.git
+    rm -rf titanwork
+    git clone git@github.com:imranvisualpath/titanwork.git
